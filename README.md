@@ -1,7 +1,7 @@
 # fake-news-detector
 Here is one my NLP pet projects. It's purpose is to detect fake news written in English by either the title of an article or vy the it's text.
 
-I've used only one ML model -- SGDClassifier. Here are the scores:
+I've used only one ML model - SGDClassifier. Here are the scores:
 
   1) Perdiction by title:
 
