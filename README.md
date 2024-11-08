@@ -3,13 +3,13 @@ Here is one my NLP pet projects. It's purpose is to detect fake news written in 
 
 I've used only one ML model - SGDClassifier. Here are the scores:
 
-  1) Perdiction by title:
+  1) Perdiction by the title:
 
      Accuracy on training data = 0.9920745729303548
 
      Accuracy on testing data = 0.9038497074222359
 
-  2) Perdiction by text of the article:
+  2) Perdiction by the text of the article:
 
      Accuracy on training data = 0.9998768068331143
 
